@@ -9,6 +9,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DavData", "DavData\DavData.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DavCoUI", "DavCoUI\DavCoUI.csproj", "{ECB27F78-0DAF-4BC2-9786-712527E336D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DavDataManager.Library", "DavDataManager.Library\DavDataManager.Library.csproj", "{978B31C2-39B6-4ABA-872E-B7EF31A0342D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{ECB27F78-0DAF-4BC2-9786-712527E336D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECB27F78-0DAF-4BC2-9786-712527E336D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECB27F78-0DAF-4BC2-9786-712527E336D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978B31C2-39B6-4ABA-872E-B7EF31A0342D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978B31C2-39B6-4ABA-872E-B7EF31A0342D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978B31C2-39B6-4ABA-872E-B7EF31A0342D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978B31C2-39B6-4ABA-872E-B7EF31A0342D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
