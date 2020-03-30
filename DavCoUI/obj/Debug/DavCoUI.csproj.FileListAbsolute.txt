@@ -23,3 +23,9 @@ C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\obj\Debug\Views\ShellView.g.
 C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\obj\Debug\App.baml
 C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\obj\Debug\Views\ShellView.baml
+C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\obj\Debug\Views\LoginView.g.cs
+C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\obj\Debug\Views\LoginView.baml
+C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\System.Net.Http.Formatting.xml

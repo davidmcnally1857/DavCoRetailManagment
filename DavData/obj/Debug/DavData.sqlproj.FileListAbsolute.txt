@@ -2,9 +2,5 @@ C:\Users\David.McNally\DavCoRetailManagment\DavData\bin\Debug\DavData.dacpac
 C:\Users\David.McNally\DavCoRetailManagment\DavData\bin\Debug\DavData.dll
 C:\Users\David.McNally\DavCoRetailManagment\DavData\bin\Debug\DavData.pdb
 C:\Users\David.McNally\DavCoRetailManagment\DavData\obj\Debug\DavData.sqlprojAssemblyReference.cache
-C:\Users\David.McNally\DavCoRetailManagment\DavData\obj\Debug\Model.xml
-C:\Users\David.McNally\DavCoRetailManagment\DavData\obj\Debug\refactor.xml
-C:\Users\David.McNally\DavCoRetailManagment\DavData\obj\Debug\postdeploy.sql
-C:\Users\David.McNally\DavCoRetailManagment\DavData\obj\Debug\predeploy.sql
 C:\Users\David.McNally\DavCoRetailManagment\DavData\obj\Debug\DavData.dll
 C:\Users\David.McNally\DavCoRetailManagment\DavData\obj\Debug\DavData.pdb
