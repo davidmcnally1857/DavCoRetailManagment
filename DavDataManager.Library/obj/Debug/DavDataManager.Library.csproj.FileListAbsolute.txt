@@ -1,0 +1,9 @@
+C:\Users\David.McNally\DavCoRetailManagment\DavDataManager.Library\bin\Debug\DavDataManager.Library.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavDataManager.Library\bin\Debug\DavDataManager.Library.pdb
+C:\Users\David.McNally\DavCoRetailManagment\DavDataManager.Library\bin\Debug\Dapper.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavDataManager.Library\bin\Debug\Dapper.xml
+C:\Users\David.McNally\DavCoRetailManagment\DavDataManager.Library\obj\Debug\DavDataManager.Library.csprojAssemblyReference.cache
+C:\Users\David.McNally\DavCoRetailManagment\DavDataManager.Library\obj\Debug\DavDataManager.Library.csproj.CoreCompileInputs.cache
+C:\Users\David.McNally\DavCoRetailManagment\DavDataManager.Library\obj\Debug\DavDataManager.Library.csproj.CopyComplete
+C:\Users\David.McNally\DavCoRetailManagment\DavDataManager.Library\obj\Debug\DavDataManager.Library.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavDataManager.Library\obj\Debug\DavDataManager.Library.pdb

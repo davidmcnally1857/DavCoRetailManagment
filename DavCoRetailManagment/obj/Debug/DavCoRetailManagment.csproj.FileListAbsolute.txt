@@ -113,3 +113,7 @@ C:\Users\David.McNally\DavCoRetailManagment\DavCoRetailManagment\obj\Debug\DavCo
 C:\Users\David.McNally\DavCoRetailManagment\DavCoRetailManagment\obj\Debug\DavCoRetailManagment.pdb
 C:\Users\David.McNally\DavCoRetailManagment\DavCoRetailManagment\bin\Swashbuckle.Core.dll
 C:\Users\David.McNally\DavCoRetailManagment\DavCoRetailManagment\bin\WebActivatorEx.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavCoRetailManagment\bin\DavDataManager.Library.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavCoRetailManagment\bin\Dapper.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavCoRetailManagment\bin\DavDataManager.Library.pdb
+C:\Users\David.McNally\DavCoRetailManagment\DavCoRetailManagment\bin\Dapper.xml

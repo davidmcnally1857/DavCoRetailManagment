@@ -1,5 +1,6 @@
 ﻿using Caliburn.Micro;
 using DavCoUI.Helpers;
+using DavDesktopLibrary.Api;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -101,8 +102,8 @@ namespace DavCoUI.ViewModels
             {
                 ErrorMessage = "";
                 var result = await _apiHelper.Authenticate(Username, Password);
-               
-                
+
+                await _apiHelper.GetLoggedInUserInfo(result.Access_Token);
             }
             catch (Exception ex)
             {

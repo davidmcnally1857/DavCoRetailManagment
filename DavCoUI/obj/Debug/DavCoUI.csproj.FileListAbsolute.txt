@@ -29,3 +29,5 @@ C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\Newtonsoft.Json.dl
 C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\System.Net.Http.Formatting.dll
 C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\Newtonsoft.Json.xml
 C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\DavDesktopLibrary.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\DavDesktopLibrary.pdb

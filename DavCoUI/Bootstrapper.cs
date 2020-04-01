@@ -1,6 +1,8 @@
 ﻿using Caliburn.Micro;
 using DavCoUI.Helpers;
 using DavCoUI.ViewModels;
+using DavDesktopLibrary.Api;
+using DavDesktopLibrary.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,6 +34,7 @@ namespace DavCoUI
 
             _container.Singleton<IWindowManager, WindowManager>()
                 .Singleton<IEventAggregator, EventAggregator>()
+                .Singleton<ILoggedInUserModel, LoggedInUserModel>()
                 .Singleton<IAPIHelper, APIHelper>();
 
          

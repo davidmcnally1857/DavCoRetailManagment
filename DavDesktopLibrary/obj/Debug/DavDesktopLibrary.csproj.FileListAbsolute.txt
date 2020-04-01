@@ -1,0 +1,11 @@
+C:\Users\David.McNally\DavCoRetailManagment\DavDesktopLibrary\obj\Debug\DavDesktopLibrary.csprojAssemblyReference.cache
+C:\Users\David.McNally\DavCoRetailManagment\DavDesktopLibrary\obj\Debug\DavDesktopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\David.McNally\DavCoRetailManagment\DavDesktopLibrary\bin\Debug\DavDesktopLibrary.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavDesktopLibrary\bin\Debug\DavDesktopLibrary.pdb
+C:\Users\David.McNally\DavCoRetailManagment\DavDesktopLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavDesktopLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavDesktopLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David.McNally\DavCoRetailManagment\DavDesktopLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\David.McNally\DavCoRetailManagment\DavDesktopLibrary\obj\Debug\DavDesktopLibrary.csproj.CopyComplete
+C:\Users\David.McNally\DavCoRetailManagment\DavDesktopLibrary\obj\Debug\DavDesktopLibrary.dll
+C:\Users\David.McNally\DavCoRetailManagment\DavDesktopLibrary\obj\Debug\DavDesktopLibrary.pdb
