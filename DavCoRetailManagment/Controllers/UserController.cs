@@ -15,6 +15,7 @@ namespace DavCoRetailManagment.Controllers
     
     public class UserController : ApiController
     {
+        [HttpGet]
    
         public UserModel GetById()
         {

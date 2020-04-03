@@ -31,3 +31,5 @@ C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\Newtonsoft.Json.xm
 C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\DavDesktopLibrary.dll
 C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\bin\Debug\DavDesktopLibrary.pdb
+C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\obj\Debug\Views\SalesView.g.cs
+C:\Users\David.McNally\DavCoRetailManagment\DavCoUI\obj\Debug\Views\SalesView.baml
